@@ -10,3 +10,5 @@
 * [x] Check responsive
 * [x] Add favicon
 * [x] Deployement on netlify
+
+* live demo: https://frosty-jackson-ffbeb7.netlify.app/
