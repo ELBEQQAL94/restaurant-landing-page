@@ -8,4 +8,5 @@
 * [x] Add navbar
 * [x] Add content
 * [x] Check responsive
+* [x] Add favicon
 * [x] Deployement on netlify
